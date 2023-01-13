@@ -1,0 +1,1 @@
+npx tsc --noEmit && node --loader tsx --test src/**/__tests__/**/*.ts
